@@ -1,5 +1,5 @@
-# DSTA-MindAR-Demo
-Simple Test for MindAR
+# My Personal AR Namecard
+This namecard shows my portfolio
 
 # Hi, I'm Teo Keng Jer! 👋
 
